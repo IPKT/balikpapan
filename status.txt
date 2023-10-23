@@ -1,0 +1,21 @@
+Izin Pimpinan, Izin melaporkan status Aloptama Stageof Balikpapan
+2023-10-23 12:04:23
+
+STATUS SEISMOMETER
+Jumlah Sensor : 14
+ON : 14
+OFF : 0 
+Sensor OFF : []
+
+STATUS ACCELEROMETER
+Jumlah Sensor : 14
+ON : 13
+OFF : 1 
+Sensor OFF : ['TARAI ']
+
+STATUS ACCELEROMETER NON COLOCATED
+Jumlah Sensor : 10
+ON : 7
+OFF : 3 
+Sensor OFF : ['TUKN 138.9 h', 'PKYI 374.5 h', 'TKUN 216.1 h']
+
